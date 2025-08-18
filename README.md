@@ -1,4 +1,4 @@
-# 🚀 DSA Journey
+#  DSA Journey
 
 Welcome to my **DSA (Data Structures and Algorithms) Journey**!  
 This repository tracks my consistent progress in mastering DSA through structured problem-solving across platforms like **GeeksforGeeks**, **LeetCode**, **CodeChef** and **Codeforces**.
